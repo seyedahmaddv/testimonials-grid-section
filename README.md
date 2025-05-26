@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/testimonials-grid-section-solution-bgANPFPiWP)
+- Live Site URL: [https://testimonials-grid-section-101.netlify.app/](https://testimonials-grid-section-101.netlify.app/)
 
 ## My process
 
@@ -69,7 +69,3 @@ I want to continue improving my CSS Grid skills and explore more advanced respon
 
 - LinkedIn - [seyedahmaddv](https://www.linkedin.com/in/seyedahmaddv)
 - Frontend Mentor - [@seyedahmaddv](https://www.frontendmentor.io/profile/seyedahmaddv)
-
-## Acknowledgments
-
-Thanks to the Frontend Mentor community for feedback and inspiration.
