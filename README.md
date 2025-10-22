@@ -1,6 +1,4 @@
-# Frontend Mentor - Testimonials grid section solution
-
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+# Testimonials grid section solution
 
 ## Table of contents
 
@@ -30,7 +28,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/testimonials-grid-section-solution-bgANPFPiWP)
 - Live Site URL: [https://testimonials-grid-section-101.netlify.app/](https://testimonials-grid-section-101.netlify.app/)
 
 ## My process
@@ -68,4 +65,3 @@ I want to continue improving my CSS Grid skills and explore more advanced respon
 ## Author
 
 - LinkedIn - [seyedahmaddv](https://www.linkedin.com/in/seyedahmaddv)
-- Frontend Mentor - [@seyedahmaddv](https://www.frontendmentor.io/profile/seyedahmaddv)
